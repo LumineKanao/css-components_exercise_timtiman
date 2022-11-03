@@ -54,15 +54,15 @@ p {
   min-height: 20rem;  
 }
 
-.card__sunrise {
+.card__color-sunrise {
   background-image: linear-gradient(90deg, #d53369 0%, #daae51 100%);
 }
 
-.card__frost {
+.card__color-frost {
   background-image: linear-gradient(90deg, #0700b8 0%, #00ff88 100%);
 }
 
-.card__lime {
+.card__color-lime {
   background-image: linear-gradient(90deg, #f8ff00 0%, #3ad59f 100%);
 }
 
